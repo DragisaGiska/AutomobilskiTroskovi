@@ -1,0 +1,74 @@
+c:\users\dt user\source\repos\XO_1_9_2015\XO_1_9_2015\bin\Debug\Resources\1442273173_98.png
+c:\users\dt user\source\repos\XO_1_9_2015\XO_1_9_2015\bin\Debug\Resources\Euro.png
+c:\users\dt user\source\repos\XO_1_9_2015\XO_1_9_2015\bin\Debug\Resources\fuel.png
+c:\users\dt user\source\repos\XO_1_9_2015\XO_1_9_2015\bin\Debug\XO_1_9_2015.exe.config
+c:\users\dt user\source\repos\XO_1_9_2015\XO_1_9_2015\bin\Debug\XO_1_9_2015.exe
+c:\users\dt user\source\repos\XO_1_9_2015\XO_1_9_2015\bin\Debug\XO_1_9_2015.pdb
+c:\users\dt user\source\repos\XO_1_9_2015\XO_1_9_2015\bin\Debug\MySql.Data.dll
+c:\users\dt user\source\repos\XO_1_9_2015\XO_1_9_2015\bin\Debug\MySql.Data.xml
+c:\users\dt user\source\repos\XO_1_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015.csprojResolveAssemblyReference.cache
+c:\users\dt user\source\repos\XO_1_9_2015\XO_1_9_2015\obj\Debug\MainWindow.g.cs
+c:\users\dt user\source\repos\XO_1_9_2015\XO_1_9_2015\obj\Debug\App.g.cs
+c:\users\dt user\source\repos\XO_1_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015_Content.g.cs
+c:\users\dt user\source\repos\XO_1_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015_MarkupCompile.cache
+c:\users\dt user\source\repos\XO_1_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015_MarkupCompile.lref
+c:\users\dt user\source\repos\XO_1_9_2015\XO_1_9_2015\obj\Debug\MainWindow.baml
+c:\users\dt user\source\repos\XO_1_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015.g.resources
+c:\users\dt user\source\repos\XO_1_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015.Properties.Resources.resources
+c:\users\dt user\source\repos\XO_1_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015.csproj.GenerateResource.Cache
+c:\users\dt user\source\repos\XO_1_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015.csproj.CoreCompileInputs.cache
+c:\users\dt user\source\repos\XO_1_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015.exe
+c:\users\dt user\source\repos\XO_1_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015.pdb
+C:\Users\DT User\source\repos\AutomobilTroskovi_15_9_2015\XO_1_9_2015\bin\Debug\Resources\1442273173_98.png
+C:\Users\DT User\source\repos\AutomobilTroskovi_15_9_2015\XO_1_9_2015\bin\Debug\Resources\Euro.png
+C:\Users\DT User\source\repos\AutomobilTroskovi_15_9_2015\XO_1_9_2015\bin\Debug\Resources\fuel.png
+C:\Users\DT User\source\repos\AutomobilTroskovi_15_9_2015\XO_1_9_2015\bin\Debug\XO_1_9_2015.exe.config
+C:\Users\DT User\source\repos\AutomobilTroskovi_15_9_2015\XO_1_9_2015\bin\Debug\XO_1_9_2015.exe
+C:\Users\DT User\source\repos\AutomobilTroskovi_15_9_2015\XO_1_9_2015\bin\Debug\XO_1_9_2015.pdb
+C:\Users\DT User\source\repos\AutomobilTroskovi_15_9_2015\XO_1_9_2015\bin\Debug\MySql.Data.dll
+C:\Users\DT User\source\repos\AutomobilTroskovi_15_9_2015\XO_1_9_2015\bin\Debug\MySql.Data.xml
+C:\Users\DT User\source\repos\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015.csprojResolveAssemblyReference.cache
+C:\Users\DT User\source\repos\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\MainWindow.g.cs
+C:\Users\DT User\source\repos\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\App.g.cs
+C:\Users\DT User\source\repos\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015_Content.g.cs
+C:\Users\DT User\source\repos\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015_MarkupCompile.cache
+C:\Users\DT User\source\repos\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015_MarkupCompile.lref
+C:\Users\DT User\source\repos\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\MainWindow.baml
+C:\Users\DT User\source\repos\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015.g.resources
+C:\Users\DT User\source\repos\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015.Properties.Resources.resources
+C:\Users\DT User\source\repos\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015.csproj.GenerateResource.Cache
+C:\Users\DT User\source\repos\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015.csproj.CoreCompileInputs.cache
+C:\Users\DT User\source\repos\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015.exe
+C:\Users\DT User\source\repos\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015.pdb
+C:\Users\DT User\source\repos\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\UnosNovihPodataka.g.cs
+C:\Users\DT User\source\repos\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\UnosNovihPodataka.baml
+C:\Users\DT User\source\repos\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\UnosPotrosnje.g.cs
+C:\Users\DT User\source\repos\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\UnosPotrosnje.baml
+C:\Users\sbs\Desktop\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\bin\Debug\Resources\1442273173_98.png
+C:\Users\sbs\Desktop\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\bin\Debug\Resources\Euro.png
+C:\Users\sbs\Desktop\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\bin\Debug\Resources\fuel.png
+C:\Users\sbs\Desktop\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\bin\Debug\XO_1_9_2015.exe.config
+C:\Users\sbs\Desktop\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\bin\Debug\XO_1_9_2015.exe
+C:\Users\sbs\Desktop\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\bin\Debug\XO_1_9_2015.pdb
+C:\Users\sbs\Desktop\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\bin\Debug\MySql.Data.xml
+C:\Users\sbs\Desktop\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015.csprojAssemblyReference.cache
+C:\Users\sbs\Desktop\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\MainWindow.g.cs
+C:\Users\sbs\Desktop\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\UnosNovihPodataka.g.cs
+C:\Users\sbs\Desktop\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\UnosPotrosnje.g.cs
+C:\Users\sbs\Desktop\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\App.g.cs
+C:\Users\sbs\Desktop\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015_Content.g.cs
+C:\Users\sbs\Desktop\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015_MarkupCompile.cache
+C:\Users\sbs\Desktop\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015_MarkupCompile.lref
+C:\Users\sbs\Desktop\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\MainWindow.baml
+C:\Users\sbs\Desktop\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\UnosNovihPodataka.baml
+C:\Users\sbs\Desktop\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\UnosPotrosnje.baml
+C:\Users\sbs\Desktop\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015.g.resources
+C:\Users\sbs\Desktop\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015.Properties.Resources.resources
+C:\Users\sbs\Desktop\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015.csproj.GenerateResource.cache
+C:\Users\sbs\Desktop\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015.csproj.CoreCompileInputs.cache
+C:\Users\sbs\Desktop\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015.csproj.CopyComplete
+C:\Users\sbs\Desktop\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015.exe
+C:\Users\sbs\Desktop\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015.pdb
+D:\Fax\TMP-Zadaci\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\bin\Debug\XO_1_9_2015.exe.config
+D:\Fax\TMP-Zadaci\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015.exe
+D:\Fax\TMP-Zadaci\TPM\TMP rokovi\II kol, rokovi, WPF\AutomobilTroskovi_15_9_2015\XO_1_9_2015\obj\Debug\XO_1_9_2015.pdb

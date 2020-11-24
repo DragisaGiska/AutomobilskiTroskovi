@@ -1,0 +1,21 @@
+﻿<Window x:Class="XO_1_9_2015.UnosPotrosnje"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:XO_1_9_2015"
+        mc:Ignorable="d"
+        Title="UnosPotrosnje" Height="239.098" Width="427.444" WindowStartupLocation="CenterScreen" WindowStyle="None" MouseLeftButtonDown="Window_MouseLeftButtonDown">
+    <Grid>
+        <Label Content="Potrošeno litara:" Height="34" Margin="10,25,249,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe UI Light" RenderTransformOrigin="0.806,0.388"/>
+        <Label Content="Predjeno kilometara:" Height="34" Margin="11,78,246,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe UI Light" RenderTransformOrigin="0.806,0.388"/>
+        <Label Content="Cijena po litru:" Height="34" Margin="12,127,249,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe UI Light" RenderTransformOrigin="0.806,0.388"/>
+        <TextBox x:Name="tbPotrosenoLitara" HorizontalAlignment="Left" Height="29" Margin="182,23,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="203" FontSize="16" TextChanged="tbUnosi_TextChanged"/>
+        <TextBox x:Name="tbPredjenoKilometara" HorizontalAlignment="Left" Height="29" Margin="183,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="203" FontSize="16" TextChanged="tbUnosi_TextChanged"/>
+        <TextBox x:Name="tbCijenaPoLitru" HorizontalAlignment="Left" Height="29" Margin="184,132,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="203" FontSize="16" TextChanged="tbUnosi_TextChanged"/>
+        <Button x:Name="btnOK" Content="OK" HorizontalAlignment="Left" Height="43" Margin="210,188,0,0" VerticalAlignment="Top" Width="209" FontSize="14" IsDefault="True" Click="btnOK_Click"/>
+        <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" Height="43" Margin="0,188,0,0" VerticalAlignment="Top" Width="211" FontSize="14" IsDefault="True" Click="btnCancel_Click" />
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="232" Margin="-1,-1,-1,0" VerticalAlignment="Top" Width="421"/>
+
+    </Grid>
+</Window>
